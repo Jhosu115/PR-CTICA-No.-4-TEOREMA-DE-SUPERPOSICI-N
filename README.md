@@ -35,7 +35,7 @@ Comprobar experimentalmente el Teorema de Superposición.
 
 # 2 MARCO TEÓRICO
 
-![image](https://github.com/Jhosu115/Informe-de-Laboratorio-3/blob/main/Diagrama%20en%20blanco%20(1).png)
+![image](https://github.com/Jhosu115/PR-CTICA-No.-4-TEOREMA-DE-SUPERPOSICI-N/blob/main/WhatsApp%20Image%202021-07-13%20at%205.17.25%20PM.jpeg)
 
 # 3 MATERIAL Y EQUIPO REQUERIDO
 
