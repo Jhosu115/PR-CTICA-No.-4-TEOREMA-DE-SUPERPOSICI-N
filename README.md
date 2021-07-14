@@ -59,7 +59,7 @@ Comprobar experimentalmente el Teorema de Superposición.
   
 ![image](https://github.com/Jhosu115/PR-CTICA-No.-4-TEOREMA-DE-SUPERPOSICI-N/blob/main/WhatsApp%20Image%202021-07-14%20at%206.30.01%20AM.jpeg)
   
-![image](https://github.com/Jhosu115/PR-CTICA-No.-4-TEOREMA-DE-SUPERPOSICI-N/blob/main/WhatsApp%20Image%202021-07-14%20at%206.30.01%20AM.jpeg) 
+![image](https://github.com/Jhosu115/PR-CTICA-No.-4-TEOREMA-DE-SUPERPOSICI-N/blob/main/WhatsApp%20Image%202021-07-14%20at%206.30.01%20AM%20(2).jpeg) 
   
   
  </div>
