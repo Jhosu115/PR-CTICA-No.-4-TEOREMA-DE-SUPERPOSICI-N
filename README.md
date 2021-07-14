@@ -57,7 +57,9 @@ Comprobar experimentalmente el Teorema de Superposición.
 
 <div align="center">
   
-![image](https://github.com/Jhosu115/Tarea-4/blob/main/CIRCUITO%20EN%20PARALELO.png)
+![image](https://github.com/Jhosu115/PR-CTICA-No.-4-TEOREMA-DE-SUPERPOSICI-N/blob/main/WhatsApp%20Image%202021-07-14%20at%206.30.01%20AM.jpeg)
+  
+![image](https://github.com/Jhosu115/PR-CTICA-No.-4-TEOREMA-DE-SUPERPOSICI-N/blob/main/WhatsApp%20Image%202021-07-14%20at%206.30.01%20AM.jpeg) 
   
   
  </div>
