@@ -55,7 +55,12 @@ Comprobar experimentalmente el Teorema de Superposición.
 
 # 4 EXPLICACIÓN DEL PROCEDIMIENTO
 
-
+<div align="center">
+  
+![image](https://github.com/Jhosu115/Tarea-4/blob/main/CIRCUITO%20EN%20PARALELO.png)
+  
+  
+ </div>
 
 
 # 5 VIDEO 
